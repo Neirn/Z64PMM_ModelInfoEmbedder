@@ -1,0 +1,18 @@
+{
+    // Used internally by modelinfoembedder
+    // do not modify
+    "embed_version": 1,
+
+    // Internal name of the zobj. It not be displayed, so make it unique.
+    // This field can NOT be empty
+    // Max length: 63 characters
+    "internal_name": "internal_zobj_name_here",
+
+    // This is the name that will show in the menu.
+    // Max length: 31 characters
+    "display_name": "",
+
+    // Author name that will show up in the menu.
+    // Max length: 63 characters
+    "author": ""
+}
